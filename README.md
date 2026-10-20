@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Subhrangshu Chatterjee — Portfolio
 
 React + Vite + Tailwind CSS + Framer Motion.
@@ -25,3 +26,6 @@ npm run build   # outputs to dist/
 ```
 
 Upload `dist/` to Vercel, Netlify or GitHub Pages (or connect the repo and use `npm run build` as the build command with `dist` as the output directory).
+=======
+# Portfolio
+>>>>>>> 3fb9c110014bda1c94ddcd41d7960544a5a2536b
