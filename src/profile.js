@@ -7,7 +7,7 @@ export const profile = {
   github: "https://github.com/Shubh3819", // ← replace with your profile URL
   linkedin: "https://www.linkedin.com/in/subhrangshu-chatterjee-16ab10245/", // ← replace with your profile URL
   video: "/intro-video.mp4", // ← replace with your intro video
-  resume: "https://drive.google.com/file/d/1ZLTIRvr2bvC9nmq8SwUGWnrZ_G3qoyyr/view?usp=sharing", // ← put your file at public/resume.pdf
+  resume: "https://drive.google.com/file/d/1qWv_xQNcpBPTBKAADEwpcVWS9jBFcYf2/view?usp=sharing", // ← put your file at public/resume.pdf
   photo: "/me.jpeg", // ← put your photo at public/profile.png
 };
 
